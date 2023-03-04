@@ -74,7 +74,7 @@ Objetivo: Acessar a aplicação [QA Store Desafio](https://qastoredesafio.lojain
 
 **Linguagens**: JavaScript
 
-**Frameworks**: Cypress (Versão 3.0.6)
+**Frameworks**: Cypress (Versão 12.7.0)
 
 <br>
 
