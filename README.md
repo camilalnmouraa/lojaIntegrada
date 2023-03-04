@@ -51,11 +51,12 @@ que o carrinho continue funcionando corretamente e que o benefício do CUPOM sej
 
 
 #### 📝 Cenário de Testes
-[Feature - Aplicar Cupom no Carrinho](https://1drv.ms/w/s!AlY7G5269gb4gSHfHU03ywJLj5m8?e=IENNP4)
+[Feature - Aplicar Cupom no Carrinho](https://www.notion.so/Cen-rio-de-Testes-d7c1bccdb8d744ecb21606e7f1b0cf04?pvs=4)
 
 
 <br>
 
 ## Execução e Evidências
 
+[Testes Realizados](https://www.notion.so/Execu-o-e-Evid-ncias-6e45c2d1fd274ad39f0942745d70a7a3?pvs=4)
 
