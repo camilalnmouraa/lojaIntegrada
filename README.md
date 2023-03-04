@@ -87,6 +87,7 @@ Já deve ter instalado em seu computador:
 
 Se você não tiver, verifique estes links: [Node.js](https://nodejs.org/en/) | [VS Code](https://code.visualstudio.com/)
 
+<br>
 
 
 #### 🗃️ Estrutura de Arquivos
@@ -108,3 +109,10 @@ Se você não tiver, verifique estes links: [Node.js](https://nodejs.org/en/) | 
     |  |-- commands.js
     |  |-- index.js
 ```
+<br>
+
+### Assistir ao video do Projeto: [Youtube](Adicionar link)
+	
+ ------
+	
+:speech_balloon: [Linkedin](https://www.linkedin.com/in/camilalnmoura/)
