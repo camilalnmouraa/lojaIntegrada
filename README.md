@@ -74,7 +74,7 @@ Objetivo: Acessar a aplicação [QA Store Desafio](https://qastoredesafio.lojain
 
 **Linguagens**: JavaScript
 
-**Frameworks**: Cypress (Versão 12.7.0)
+**Frameworks**: Cypress (Versão 12.2.0)
 
 <br>
 
@@ -93,9 +93,8 @@ Se você não tiver, verifique estes links: [Node.js](https://nodejs.org/en/) | 
 #### 🗃️ Estrutura de Arquivos
 
 ```
-|-- fixtures
-    |  |-- example.json -- Esse arquivo contém ...
-    |-- integration
+    |-- cypress
+    |-- e2e
     |  |-- components.feature -- Contém todos os cenários de testes relacionados a elementos
     |-- plugins
     |  |-- index.js -- Esse arquivo contém ...
