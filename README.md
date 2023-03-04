@@ -64,7 +64,7 @@ que o carrinho continue funcionando corretamente e que o benefício do CUPOM sej
 
 ## Automação
 
-Objetivo: Acessar a aplicação [QA Store Desafio](https://qastoredesafio.lojaintegrada.com.br), automatizando as iterações referentes ao cupom de desconto sob a visão do usuário.
+Objetivo: Automatizar as interações do cupom de desconto, na perspectiva do usuário, ao acessar a aplicação [QA Store Desafio](https://qastoredesafio.lojaintegrada.com.br).
 
 <br>
 
