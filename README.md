@@ -60,3 +60,51 @@ que o carrinho continue funcionando corretamente e que o benefício do CUPOM sej
 
 [Testes Realizados](https://www.notion.so/Execu-o-e-Evid-ncias-6e45c2d1fd274ad39f0942745d70a7a3?pvs=4)
 
+<br>
+
+## Automação
+
+Objetivo: Acessar a aplicação [QA Store Desafio](https://qastoredesafio.lojaintegrada.com.br), automatizando as iterações referentes ao cupom de desconto sob a visão do usuário.
+
+<br>
+
+#### ⚙️ Tecnologias utilizadas
+
+**IDE para implementação**: VS Code
+
+**Linguagens**: JavaScript
+
+**Frameworks**: Cypress (Versão 3.0.6)
+
+<br>
+
+ #### ⚠️ Pré-requisito
+
+Já deve ter instalado em seu computador:
+- Node.js;
+- VS Code.
+
+
+Se você não tiver, verifique estes links: [Node.js](https://nodejs.org/en/) | [VS Code](https://code.visualstudio.com/)
+
+
+
+#### 🗃️ Estrutura de Arquivos
+
+```
+|-- fixtures
+    |  |-- example.json -- Esse arquivo contém ...
+    |-- integration
+    |  |-- components.feature -- Contém todos os cenários de testes relacionados a elementos
+    |-- plugins
+    |  |-- index.js -- Esse arquivo contém ...
+    |-- support
+    |  |-- elements
+    |  |  |  |-- XXX
+    |  |-- pageObjects
+    |  |  |  |-- XXX
+    |  |-- steps
+    |  |  |  |-- components.js -- Contém todos os testes relacionados a elementos
+    |  |-- commands.js
+    |  |-- index.js
+```
