@@ -95,14 +95,13 @@ Se você não tiver, verifique estes links: [Node.js](https://nodejs.org/en/) | 
 ```
     |-- cypress
     |-- e2e
-    |  |-- cupom.cy.js 
-    |  |-- locators.js
+    |  |-- tasks.cy.js
     |-- fixtures
     |  |-- example.json
     |-- support
     |  |-- commands.js
     |  |-- e2e.js
-    |  |-- steps
+    |  |-- locators.js
     |-- node_modulos
 ```
 <br>
