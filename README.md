@@ -95,18 +95,15 @@ Se você não tiver, verifique estes links: [Node.js](https://nodejs.org/en/) | 
 ```
     |-- cypress
     |-- e2e
-    |  |-- components.feature -- Contém todos os cenários de testes relacionados a elementos
-    |-- plugins
-    |  |-- index.js -- Esse arquivo contém ...
+    |  |-- cupom.cy.js 
+    |  |-- locators.js
+    |-- fixtures
+    |  |-- example.json
     |-- support
-    |  |-- elements
-    |  |  |  |-- XXX
-    |  |-- pageObjects
-    |  |  |  |-- XXX
-    |  |-- steps
-    |  |  |  |-- components.js -- Contém todos os testes relacionados a elementos
     |  |-- commands.js
-    |  |-- index.js
+    |  |-- e2e.js
+    |  |-- steps
+    |-- node_modulos
 ```
 <br>
 
